@@ -1,0 +1,29 @@
+ body{
+                background: linear-gradient(to bottom, #ccffff 14%, #ff99cc 100%);
+            }
+            .heading{
+                font-family: arial;
+                margin: 50px 0px 10px 500px;
+            }
+            .matter{
+                font-family: arial;
+                margin:50px 0px 10px 400px;
+            }
+            .down{
+                margin:50px 0px 10px 550px;
+                width: 200px;
+                height: 40px;
+                background-color: cornflowerblue;
+                padding: 10px 0px 10px 40px;
+                font-family: cursive;
+                transition: 1s ease-in-out;
+            
+            }
+            .down:hover{
+                transform: rotateX(360deg);
+            }
+            a{
+                text-decoration: none;
+                color: aliceblue;
+            }
+        
